@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+env
+Backend/.env
+Backend/firebase-credentials.json
+Backend/service-account.json
