@@ -229,6 +229,12 @@ async def upload_and_process_resume(
             }
 
         print(f"DEBUG: Responding to frontend with full analysis report (Overall Score: {full_analysis_report.get('overall_resume_score')}).")
+        
+        # Save ATS score for progress tracking
+        ats_score = full_analysis_report.get('ats_optimization_score', 0)
+        job_role = full_analysis_report.get('job_role_context', 'General Candidate')
+        db.save_ats_score_history(uid, ats_score, job_role)
+
         return JSONResponse(content={
             "message": "Resume processed successfully!",
             "user_uid": uid,

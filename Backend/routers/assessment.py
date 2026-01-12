@@ -84,6 +84,8 @@ async def submit_assessment_endpoint(
         if not results_output:
             raise HTTPException(status_code=500, detail="AI failed to evaluate assessment answers.")
         
+        # Save results for progress tracking
+        db.save_assessment_result(uid, results_output)
         
         return results_output
     except Exception as e:
