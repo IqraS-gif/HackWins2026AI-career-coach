@@ -119,12 +119,6 @@ Students and professionals struggle with generic career advice, static roadmaps,
   * UI consistency and clarity
   * Professional presentation quality
 * Combines visual analysis with **technical project depth**
-* Outputs:
-
-  * Portfolio score
-  * Clear strengths and weaknesses
-  * Actionable improvement suggestions
-
 ---
 
 ### 🛠️ AI Portfolio Generator (Auto-Deployed)
@@ -135,9 +129,7 @@ Students and professionals struggle with generic career advice, static roadmaps,
   * Project descriptions
   * Tech stack sections
   * About and achievements
-* Builds a **static portfolio website**
 * Automatically deploys to **GitHub Pages**
-* No manual setup or hosting required
 
 ---
 
