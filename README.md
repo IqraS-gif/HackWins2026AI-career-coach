@@ -108,8 +108,6 @@ Students and professionals struggle with generic career advice, static roadmaps,
 
 ---
 
-## 🧠 Portfolio Intelligence
-
 ### 📊 AI Portfolio Rater (Google Vision)
 
 * Upload portfolio screenshots or website links
@@ -145,7 +143,8 @@ Students and professionals struggle with generic career advice, static roadmaps,
 | Authentication | Google OAuth 2.0               |
 | Jobs API       | Adzuna                         |
 | Email          | Email APIs                     |
-| Deployment     | Render (Backend), GitHub Pages |
+|Trends          | Google Trends API, BigQuery    |
+| Deployment     | Render (Backend), Vercel       |
 
 ---
 
