@@ -91,12 +91,16 @@ Students and professionals struggle with generic career advice, static roadmaps,
 
 ---
 
-### 📧 Email-Based Interview Feedback & Guidance
+### 📧 Email-Based Interview Feedback & Smart Scheduling
 
 * Post-interview **detailed feedback emails**
 * Highlights strengths, weak areas, and improvement steps
 * Personalized preparation suggestions for upcoming interviews
 * Acts as a continuous post-interview mentor
+* Automatically pushes:
+  * Follow-ups to **Google Tasks**
+  * Interview prep & reminders to **Google Calendar**
+* Ensures no missed deadlines or interview steps
 
 ---
 
@@ -130,6 +134,18 @@ Students and professionals struggle with generic career advice, static roadmaps,
 * Automatically deploys to **GitHub Pages**
 
 ---
+### 📈 Market Trend & Skill Demand Analysis
+
+* Uses **Google Trends API** and **BigQuery**
+* Analyzes long-term market demand for skills and roles
+* Identifies:
+  * Rising skills
+  * Declining / saturated skills
+* Injects trending skills directly into:
+  * Career roadmap
+  * Skill gap analysis
+  * Resume and portfolio recommendations
+  * 
 
 ## 🛠️ Tech Stack
 
@@ -144,6 +160,7 @@ Students and professionals struggle with generic career advice, static roadmaps,
 | Jobs API       | Adzuna                         |
 | Email          | Email APIs                     |
 |Trends          | Google Trends API, BigQuery    |
+|Automation      |Google Tasks and Google Calender|
 | Deployment     | Render (Backend), Vercel       |
 
 ---
