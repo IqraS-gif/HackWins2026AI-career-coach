@@ -16,6 +16,15 @@
 </p>
 
 ---
+## 🌐 Live Demo
+
+> 🚀 **[https://ai-career-coach-hackwins.vercel.app](https://ai-career-coach-hackwins.vercel.app)**
+> *(Backend runs on Render free tier — first request may take ~30s)*
+
+> 🎥 **Demo Video:**  
+> **https://drive.google.com/file/d/1ddLwjzzdGh-gOwP3ju-NfJsKpa_Hp815/view**
+
+---
 
 ## ► The Problem: The Career Maze
 
@@ -26,15 +35,6 @@ Students and professionals struggle with generic career advice, static roadmaps,
 ## ► Our Solution: An Adaptive AI Career System
 
 **AI Career Coach** is an end-to-end AI-driven platform that continuously adapts to the user’s progress. It combines **dynamic career planning, resume optimization, interview intelligence, portfolio evaluation, and job matching** into a single evolving system.
-
----
-## 🌐 Live Demo
-
-> 🚀 **[https://ai-career-coach-hackwins.vercel.app](https://ai-career-coach-hackwins.vercel.app)**
-> *(Backend runs on Render free tier — first request may take ~30s)*
-
-> 🎥 **Demo Video:**  
-> **[https://drive.google.com/file/d/1DHJhyqF0u0kdWWquOHK0Scs9SKleVOPY/view](https://drive.google.com/file/d/1DHJhyqF0u0kdWWquOHK0Scs9SKleVOPY/view)**
 
 ---
 
