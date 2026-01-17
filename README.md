@@ -145,7 +145,6 @@ Students and professionals struggle with generic career advice, static roadmaps,
   * Career roadmap
   * Skill gap analysis
   * Resume and portfolio recommendations
-  * 
 
 ## 🛠️ Tech Stack
 
@@ -176,20 +175,12 @@ FastAPI Backend
  ├── Gemini AI (Roadmaps, Resume, Interviews)
  ├── Dynamic Roadmap Engine (Progress-aware)
  ├── Portfolio Analysis (Google Vision)
- ├── Email Feedback Engine
+ ├── Email Feedback + Tasks & Calendar Sync
+ ├── Market Trend Analyzer (BigQuery + Trends)
  ├── Job Matching (Adzuna)
  └── Firebase Firestore
+
 ```
-
----
-
-## 🔮 Future Roadmap
-
-* Calendar sync for roadmap tasks
-* Recruiter feedback ingestion
-* Salary benchmarking
-* Gamified progress tracking
-
 ---
 
 ## 🚀 Getting Started
