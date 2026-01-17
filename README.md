@@ -21,8 +21,8 @@
 > 🚀 **[https://ai-career-coach-hackwins.vercel.app](https://ai-career-coach-hackwins.vercel.app)**
 > *(Backend runs on Render free tier — first request may take ~30s)*
 
-> 🎥 **Demo Video:**  
-> **https://drive.google.com/file/d/1ddLwjzzdGh-gOwP3ju-NfJsKpa_Hp815/view**
+> ## 🎥 Demo Video
+> 👉 https://drive.google.com/file/d/1uynJ8xppnPfLWKQBMB2Qij0BaHKSGLz-/view?usp=sharing
 
 ---
 
